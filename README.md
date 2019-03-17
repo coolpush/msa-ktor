@@ -1,2 +1,2 @@
 # msa-ktor
-Ktor based micro service 
+Building ktor based micro service.
